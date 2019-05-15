@@ -1,3 +1,3 @@
 # best-repo-ever
 Hello!
-Change 2
+change merged
